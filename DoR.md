@@ -1,6 +1,6 @@
 ## DoR : 
-Un US contient tous les pré-requis et ce qui est nécessaire pour le développeur, de ne pas avoir des ralentissments ou des blocage particulier durant le développement:
-La milleur façon d'avoir/collecter tous ce qui est nécessaire pour la réalisation d'une feature c'est le 3 AMIGOS permet de produire un US INVEST.
+Un US contient tous les pré-requis et ce qui est nécessaire pour le développeur, dans l'objectif ne pas avoir des ralentissments ou des blocages particulier durant le développement:
+La milleur façon d'avoir/collecter tous ce qui est nécessaire pour la réalisation d'un besoin métier (fonctionnalité) c'est le 3 AMIGOS permet de produire un US INVEST.
 
 
 - Une description fonctionnelle, explique l'utilisateut finale, ce qu'il doit étre développer, et la valeur métier.
