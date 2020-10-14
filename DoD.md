@@ -7,3 +7,6 @@
 	s’assurer que la fonctionnalité implémentée réponde au besoin du Product Owner (pair-test). (déploiment par branche)-(envirenement par équipe).
 - Analyser la qualité du code avec SonarLint.
 - Passage de la revew de code, créer une PR permet à l'équipe de développement de communiquer, échanger sur le code, et de mettre des commentaire, une PR contient le feedback de l'équipe de développement, CI, et l'esemble du crittiées stricts de la DoD.
+
+## Conclusion:
+Un développeur est responsable de la qualité technique et métier du produit.
