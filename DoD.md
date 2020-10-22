@@ -1,4 +1,4 @@
-## Dans chaque projet doit avoir un DoD réprésent un ensemble des critiers stricts, réspécter par l'ensemble des équipe travaillent dans le projet:
+## Dans chaque projet doit avoir un DoD réprésent un ensemble des critiers stricts, réspécter par l'ensemble des équipe travaillent dans le projet ou sur le produit:
 
 - Les développeurs responsables de la qualité du code livrer, le code livrer doit étre accompagner avec des TUs,et TIntégration/BDD, des tests qui couvre tous les cas utilisations du code impléménter.
 - Analyser les impacts, si le code implémenter n'impacts sur d'autre coté du projet ou fonctionnalité, et tous les TUs, test intégration/BDD en local sont ok (vert).
