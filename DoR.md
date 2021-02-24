@@ -11,4 +11,5 @@ La milleur façon d'avoir/collecter tous ce qui est nécessaire pour la réalisa
 - IHM/ maquet
 - Support contient la communication du métier.
 - Un US INVEST.
+- Découpage au max possible le sujet par valeur ajouté et pas en tache, permet au développeur d'équipe d'atteinte l'objectif du sprint facilement.
  
