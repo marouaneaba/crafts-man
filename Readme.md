@@ -16,3 +16,7 @@ Ce repositiers liste l'ensemble des bonnes pratiques, méthodes à utiliser dans
 ##### Dette Technique:
 ##### Egoless Programming:
 
+
+
+
+Contact: Marouane ABKARIM - mar.abakarim@gmail.com
