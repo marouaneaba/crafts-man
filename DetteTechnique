@@ -1,1 +1,6 @@
-### Dette technique:
+### Dette technique: (Brouillon)
+- Revue du code
+- CI (build, Test, qualité/sonar, artificat, ... )
+- Pair-test
+- Boy Scout Role (technique story)
+- synchronisé avec Qualité pour travailler ensemble à définir les stratégie de test, composant impacté
