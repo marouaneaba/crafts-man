@@ -18,3 +18,8 @@ Lancer l’application en local et vérifier manuellement si le fonctionnement e
 
 ## Conclusion:
 Un développeur est responsable de la qualité technique et métier du produit, doit connaitre les bonnes pratique et méthode pour faire des livraisons de la qualité.
+
+Qualité fontionnelle: Attendu par le métier et critiére d'acceptance.
+Qualité technique: Review code, CI, TUs, impact (non régression).
+
+Chaque équipe doit mettre une définition de terminer qui est explicite à l'équipe scrum, chaque list de DoD c'est une template initiale et a améliorer avec le temp par l'amélioratoin continue (Rétro) pour l'adapter à l'équipe.
