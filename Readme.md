@@ -5,12 +5,18 @@ Ce repositiers liste l'ensemble des bonnes pratiques, méthodes à utiliser dans
 - Dans le contexte agilité un user-storie découper en deux partie DoR et DoD.
 - Un développeur ne doit pas dépasser deux US à la fois.
 - Avoir un US DoR faut le développeur passe par les trois prosessus : ANALYSE, 3 AMIGOS, CONCEPTION.
+- Dans le proscessus de developpement l'US faut le découper en taches ils ont du feedback (SMART): Front, BackEnd, Bdd, ... .
 ##### SOLID:
+S:
+O:
+L:
+D:
 ##### Code smell:
 ##### Refactoring:
-##### Boy Scout Rule
-##### Clean code
-##### Code Legacy
+TDD feedback en continue, et simplifier le refectoring.
+##### Boy Scout Rule:
+##### Clean code:
+##### Code Legacy:
 ##### Documentation:
 ##### Test automatisé (unitaire, fonctionnelle, integration):
 ##### Dette Technique:
