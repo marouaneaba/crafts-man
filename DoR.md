@@ -12,4 +12,10 @@ La milleur façon d'avoir/collecter tous ce qui est nécessaire pour la réalisa
 - Support contient la communication du métier.
 - Un US INVEST.
 - Découpage au max possible le sujet par valeur ajouté et pas en tache, permet au développeur d'équipe d'atteinte l'objectif du sprint facilement.
+
+
+## Processus Dév:
+L'US foit étre découpé en plusieurs taches et de travailler en itération. Le développeur doit métriser les pratiques permetent d'accélérer l'itération (BDD/TDD, GIT, racourcus clavie IDE, CI/CD).
+Exemple tàche: 
+- FRONT/BACKEND/Base de données/ ...
  
