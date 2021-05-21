@@ -44,12 +44,24 @@ Cette pratique on l'utilise pour tous les types du test.
 ## Egoless Programming:
 
 ## DevSecOps:
+Qu'on dit **DevSecOps** on parle du construction du code, sécurité, et déploimenet.
+L'objectif c'est d'automatiser notre flux de travail, pour accélérer le TTM, rendre une fonctionnalité disponible dans un envirenement le plus rapidement possible, avoir le feedback de notre réalisation fonctionnelle ou technique pour améliorer notre qualité.
+Notre flux de travail et découper en deux trois partie:
+1. CI: Intégration continue l'objectif c'est de checker la qualité du code réaliser par un développeur avant le merger avec notre code source, ce qui  permet d'améliorer la qualité de notre code. 
+Les étapes permettent de checker la qualité de notre code: vérifier  le build projet, lancer les tests pré-deploy de notre application pour vérifier les impacts duu code réaliser ce qui permet d'éviter des régression, analyser la qualité du code avec des outils **Ex: sonar**, deploy notre artifact dans notre repository privé.
+
+2. Séc: Un ensemble des pratiques  et outils permettent d'analyser la sécuurité de notre amélioration.
+
+4. CD : Permet de faire des checks post-deploy et automatisé les taches pour deployer notre artifact dans un envirenement.
+Récupération du l'artifact, lancer des checks post-deploy, automatisé les taches pour deploy dans un envirenement.
 
 
 
 ## Conclusion:
-Une grand partie du temp et d'investissement doit étre fait sur l'architecture, code qualité, et tester notre application (TUs, Test-Intégration, Pair-Test). 
-Un bon poduit c'est le résultat d'un travail collaboratif (3 Amigos, conception review, code review, pair-programming, mob-programming, pair-test, ...) tous les membres de l'équipe doivent être impliqués dans la construction et la réalisation.
+Une grand partie du temp et d'investissement doit étre fait sur l'architecture, code qualité, et tester notre application (Tests fonctionnelles/Tests techique, TUs, Test-Intégration, Pair-Test). 
+
+
+Un bon poduit c'est le résultat d'un travail collaboratif (3 Amigos, conception review, code review, pair-programming, mob-programming, pair-test, ...) tous les membres de l'équipe doivent être impliqués dans l'incrémentation,la construction, la réalisation du produit.
 
 <br/>
 <br/>
