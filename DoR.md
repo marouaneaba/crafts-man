@@ -8,6 +8,7 @@ La milleur façon d'avoir/collecter tous ce qui est nécessaire pour la réalisa
 - Exemple, sénario à partir de la vrai vie ou métier réél pour chaque régle métier, utiliser comme des critiers d'acceptance, et pour faire la double boucle BDD/TDD.
 - Analyse des impacts fonctionnelles, sécurité, performance.
 - La spécification:  la proposition technique : plusieurs proposition technique pour choisie la plus simple (KISS), chaque proposition doit étre accompagner par une conception avantage/inconvénient.
+La conception: doit d'écrire tout la chaine de développement par un diagramme séquence fonctionnelle et technique. Analyser/maitriser les dépendences extérnes.
 - IHM/ maquet
 - Support contient la communication du métier.
 - Un US INVEST.
