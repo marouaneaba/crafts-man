@@ -17,7 +17,7 @@ Lancer l’application en local et vérifier manuellement si le fonctionnement e
 - Analyser la qualité du code avec SonarLint.
 - Passage de la revew de code, créer une PR permet à l'équipe de développement de communiquer, échanger sur le code, et de mettre des commentaire, une PR contient le feedback de l'équipe de développement, CI, et l'esemble du crittiées stricts de la DoD.
 
-- Re-Lire le code avant de le push:qualité technique, qualité fonctionnelle (re-Lire US, re-Lire la conception technique, re-Lire ton brouillon, re-Lire critére d'acceptance, re-Lire les régles métier, voir la couverture du code, regarde sonar pour code smile, couverture du code, ... ).
+- Re-Lire le code avant de le push:qualité technique, qualité fonctionnelle (re-Lire US, re-Lire la conception technique, re-Lire ton brouillon, re-Lire critére d'acceptance, re-Lire les régles métier, voir la couverture du code, regarde sonar pour code smile, couverture du code, vérifier les impacts du code: modification méthode déja utiliser, ... ).
 
 - Re-Lire l'US et vérifier que tous ce qui est montioné dans l'US correspand ce qui est construit par plus ni moins ( ce qui est developpé == ce qui se trouve dans l'US).
 - Le pair test est fait en local.
