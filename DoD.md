@@ -20,9 +20,11 @@ Lancer l’application en local et vérifier manuellement si le fonctionnement e
 - Re-Lire le code avant de le push:qualité technique, qualité fonctionnelle (re-Lire US, re-Lire la conception technique, re-Lire ton brouillon, re-Lire critére d'acceptance, re-Lire les régles métier, voir la couverture du code, regarde sonar pour code smile, couverture du code, vérifier les impacts du code: modification méthode déja utiliser, ... ).
 
 - Re-Lire l'US et vérifier que tous ce qui est montioné dans l'US correspand ce qui est construit par plus ni moins ( ce qui est developpé == ce qui se trouve dans l'US).
-- Le pair test est fait en local.
+- Le pair test est fait en local et e pair-test est passé et valider avec quelqu’un de fonctionnel (PO, BA, PM).
 - Est ce que ta réalisation est passé par une conception (POO).
 - Est ce que une méthode public était modifier, si oui est ce que les impacts de la méthode ils sont analysé (find usage).
+
+
 
 ## Conclusion:
 Un développeur est responsable de la qualité technique et métier du produit, doit connaitre les bonnes pratique et méthode pour faire des livraisons de la qualité.
