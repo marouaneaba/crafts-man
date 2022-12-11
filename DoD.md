@@ -3,6 +3,7 @@
 - DOD représente un travail/US terminé.
 
 
+
 ## Chaque team doit avoir un DoD réprésent un ensemble des critiers stricts, réspécter par l'ensemble des équipe travaillent dans le projet ou sur le produit:
 
 - Les développeurs responsables de la qualité du code livrer, le code livrer doit étre accompagner avec des TUs,et TIntégration/BDD, des tests qui couvre tous les cas utilisations du code impléménter.
@@ -15,6 +16,8 @@ Lancer l’application en local et vérifier manuellement si le fonctionnement e
 	s’assurer que la fonctionnalité implémentée réponde au besoin du Product Owner (pair-test). (déploiment par branche)-(envirenement par équipe).
 - Analyser la qualité du code avec SonarLint.
 - Passage de la revew de code, créer une PR permet à l'équipe de développement de communiquer, échanger sur le code, et de mettre des commentaire, une PR contient le feedback de l'équipe de développement, CI, et l'esemble du crittiées stricts de la DoD.
+
+- Re-Lire le code avant de le push:qualité technique, qualité fonctionnelle (re-Lire US, re-Lire la conception technique, re-Lire ton brouillon, re-Lire critére d'acceptance, re-Lire les régles métier, voir la couverture du code, regarde sonar pour code smile, couverture du code, ... ).
 
 - Re-Lire l'US et vérifier que tous ce qui est montioné dans l'US correspand ce qui est construit par plus ni moins ( ce qui est developpé == ce qui se trouve dans l'US).
 - Le pair test est fait en local.
