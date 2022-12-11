@@ -7,7 +7,7 @@
 ## Chaque team doit avoir un DoD réprésent un ensemble des critiers stricts, réspécter par l'ensemble des équipe travaillent dans le projet ou sur le produit:
 
 - Les développeurs responsables de la qualité du code livrer, le code livrer doit étre accompagner avec des TUs,et TIntégration/BDD, des tests qui couvre tous les cas utilisations du code impléménter.
-- Analyser les impacts: le code implémenter impacts sur d'autre coté du projet ou fonctionnalité (modification méthode public, transverses, communes, ou impact d'autre fonctionnalité, ... ), et tous les TUs, test intégration/BDD en local sont ok (vert).
+- Analyser les impacts: le code implémenter impacts sur d'autre coté du projet (impacts du code ou des composantes fonationnelle) et d'autre fonctionnalité (modification méthode public, transverses, communes, ou impact d'autre fonctionnalité, ... ), et tous les TUs, test intégration/BDD en local sont ok (vert).
 - Le code impacté touche-t-il un périmètre autre que celui demandé par ton US / TS / BugFix (modification de fonction transverses, communes, etc...) ?
 
 - Le code lisible et compréhensible utilisé un langage métier (omniprésent), si n'est pas le cas faut faire une documentation technique du code.
